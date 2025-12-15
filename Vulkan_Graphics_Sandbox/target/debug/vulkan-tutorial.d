@@ -1,0 +1,1 @@
+/home/tanvir-ahmed/rust_temp/vulkan-graphics-sandbox/target/debug/vulkan-tutorial: /home/tanvir-ahmed/rust_temp/vulkan-graphics-sandbox/shaders/frag.spv /home/tanvir-ahmed/rust_temp/vulkan-graphics-sandbox/shaders/vert.spv /home/tanvir-ahmed/rust_temp/vulkan-graphics-sandbox/src/main.rs
